@@ -1143,36 +1143,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "nl32.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "h_aw84oy-lKBuN8zdpDHDooA_KJjSQN5MYWH-yaoKX4",
-            "serverName": "nl32.24lunar.ru",
-            "shortId": "a805b2ceb6d2ec6c"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-37"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "nl34.24lunar.ru",
               "port": 443,
               "users": [
@@ -1196,7 +1166,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-38"
+        "tag": "proxy-37"
       },
       {
         "protocol": "vless",
@@ -1226,37 +1196,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-39"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "pl18.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "sUoEvp9Vxh413GK9-Gdp2Ncpi1tMFTK3783zBs5x1nE",
-            "serverName": "pl18.24lunar.ru",
-            "shortId": "8f2e08f908c98aaf"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-40"
+        "tag": "proxy-38"
       },
       {
         "protocol": "vless",
@@ -1922,177 +1862,6 @@
       ]
     },
     "dns": {
-      "queryStrategy": "UseIPv4",
-      "servers": [
-        "1.1.1.1",
-        "1.0.0.1"
-      ]
-    },
-    "inbounds": [
-      {
-        "listen": "127.0.0.1",
-        "port": 10808,
-        "protocol": "socks",
-        "settings": {
-          "auth": "noauth",
-          "udp": true
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "socks"
-      },
-      {
-        "listen": "127.0.0.1",
-        "port": 10809,
-        "protocol": "http",
-        "settings": {
-          "allowTransparent": false
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "http"
-      }
-    ],
-    "meta": {
-      "serverDescription": "Обход блокировок Google"
-    },
-    "outbounds": [
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "nl32.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "h_aw84oy-lKBuN8zdpDHDooA_KJjSQN5MYWH-yaoKX4",
-            "serverName": "nl32.24lunar.ru",
-            "shortId": "a805b2ceb6d2ec6c"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "pl18.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "sUoEvp9Vxh413GK9-Gdp2Ncpi1tMFTK3783zBs5x1nE",
-            "serverName": "pl18.24lunar.ru",
-            "shortId": "8f2e08f908c98aaf"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-2"
-      },
-      {
-        "protocol": "freedom",
-        "tag": "direct"
-      },
-      {
-        "protocol": "blackhole",
-        "tag": "block"
-      }
-    ],
-    "remarks": "🇳🇵  Google | Gemini AI",
-    "routing": {
-      "balancers": [
-        {
-          "fallbackTag": "direct",
-          "selector": [
-            "proxy"
-          ],
-          "strategy": {
-            "settings": {
-              "baselines": [
-                "1s"
-              ],
-              "expected": 12,
-              "maxRTT": "1s",
-              "tolerance": 0.01
-            },
-            "type": "roundRobin"
-          },
-          "tag": "Super_Balancer"
-        }
-      ],
-      "domainMatcher": "hybrid",
-      "domainStrategy": "AsIs",
-      "rules": [
-        {
-          "outboundTag": "direct",
-          "protocol": [
-            "bittorrent"
-          ],
-          "type": "field"
-        },
-        {
-          "balancerTag": "Super_Balancer",
-          "network": "tcp,udp",
-          "type": "field"
-        }
-      ]
-    }
-  },
-  {
-    "burstObservatory": {
-      "pingConfig": {
-        "destination": "https://www.gstatic.com/generate_204",
-        "interval": "90s",
-        "sampling": 1,
-        "timeout": "3s"
-      },
-      "subjectSelector": [
-        "proxy"
-      ]
-    },
-    "dns": {
       "hosts": {
         "dns.google": "8.8.8.8"
       },
@@ -2604,36 +2373,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "nl32.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "h_aw84oy-lKBuN8zdpDHDooA_KJjSQN5MYWH-yaoKX4",
-            "serverName": "nl32.24lunar.ru",
-            "shortId": "a805b2ceb6d2ec6c"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-16"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "nl34.24lunar.ru",
               "port": 443,
               "users": [
@@ -2657,7 +2396,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-17"
+        "tag": "proxy-16"
       },
       {
         "protocol": "vless",
@@ -2687,7 +2426,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-18"
+        "tag": "proxy-17"
       },
       {
         "protocol": "freedom",
@@ -3972,36 +3711,6 @@
           "tcpSettings": {}
         },
         "tag": "proxy-7"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "pl18.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "sUoEvp9Vxh413GK9-Gdp2Ncpi1tMFTK3783zBs5x1nE",
-            "serverName": "pl18.24lunar.ru",
-            "shortId": "8f2e08f908c98aaf"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-8"
       },
       {
         "protocol": "freedom",
