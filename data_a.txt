@@ -723,6 +723,36 @@
         "settings": {
           "vnext": [
             {
+              "address": "nl80.24lunar.ru",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "S-2LFAB74hAjHkOIgg6knLK58KPAa3QFRvgE0hKs2ko",
+            "serverName": "nl80.24lunar.ru",
+            "shortId": "a089c3e9747ed74b"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-23"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "188.225.25.80",
               "port": 2087,
               "users": [
@@ -2567,6 +2597,36 @@
         "tag": "proxy-10"
       },
       {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "nl80.24lunar.ru",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "S-2LFAB74hAjHkOIgg6knLK58KPAa3QFRvgE0hKs2ko",
+            "serverName": "nl80.24lunar.ru",
+            "shortId": "a089c3e9747ed74b"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-11"
+      },
+      {
         "protocol": "freedom",
         "tag": "direct"
       },
@@ -3967,9 +4027,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "2nowuj8AxBo3o4ITvEnBwnWeh1vozHHhIuQV_Y0vUFE",
-            "serverName": "www.cloudflare.com",
-            "shortId": "f36b19b1d2500b16"
+            "publicKey": "TxA0fpmX4q4yemCXWMWFByxmt9fo-ZA9KRKcdjw0KjQ",
+            "serverName": "www.google.com",
+            "shortId": "2fcc70533136f017"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -4054,7 +4114,7 @@
           "vnext": [
             {
               "address": "188.225.25.80",
-              "port": 443,
+              "port": 2053,
               "users": [
                 {
                   "encryption": "none",
@@ -4069,9 +4129,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "2nowuj8AxBo3o4ITvEnBwnWeh1vozHHhIuQV_Y0vUFE",
-            "serverName": "www.cloudflare.com",
-            "shortId": "f36b19b1d2500b16"
+            "publicKey": "K7aThtFHkrjX1OD83Tt8oNvrQHPGqSv6L1wfdE6cb0I",
+            "serverName": "www.google.com",
+            "shortId": "de92d6b4de0bb30b"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -4087,7 +4147,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇳🇱  Россия | Обход LTE",
+    "remarks": "🇷🇺 Россия | Обход LTE #2",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
