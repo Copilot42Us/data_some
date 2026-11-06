@@ -2119,6 +2119,36 @@
         "tag": "proxy"
       },
       {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "cyber-storm-dmb0vajl.expresshost.cloud",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "x5_TgIxJjhadSGuhSD51DYQ65Sgn4dzfut89BoSWiUI",
+            "serverName": "cyber-storm-dmb0vajl.expresshost.cloud",
+            "shortId": "e0770ed5f7506d73"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-2"
+      },
+      {
         "protocol": "freedom",
         "tag": "direct"
       },
