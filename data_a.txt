@@ -663,6 +663,36 @@
         "settings": {
           "vnext": [
             {
+              "address": "turbo-fury-9zpcralm.expresshost.cloud",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "VmRBbjQy3XiJmQwEwO_4cgdMrZ2dOLKBMEHzck2d73E",
+            "serverName": "turbo-fury-9zpcralm.expresshost.cloud",
+            "shortId": "b9380714ac0aa984"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-21"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "188.225.25.80",
               "port": 2087,
               "users": [
@@ -3014,6 +3044,36 @@
         "tag": "proxy-5"
       },
       {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "turbo-fury-9zpcralm.expresshost.cloud",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "VmRBbjQy3XiJmQwEwO_4cgdMrZ2dOLKBMEHzck2d73E",
+            "serverName": "turbo-fury-9zpcralm.expresshost.cloud",
+            "shortId": "b9380714ac0aa984"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-6"
+      },
+      {
         "protocol": "freedom",
         "tag": "direct"
       },
@@ -4107,7 +4167,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "turbo-fury-9zpcralm.expresshost.cloud",
+              "address": "super-rush-4ueswnxt.expresshost.cloud",
               "port": 443,
               "users": [
                 {
@@ -4123,9 +4183,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "VmRBbjQy3XiJmQwEwO_4cgdMrZ2dOLKBMEHzck2d73E",
-            "serverName": "turbo-fury-9zpcralm.expresshost.cloud",
-            "shortId": "b9380714ac0aa984"
+            "publicKey": "a2L4bfsKURJvBV66mqbmbFQ6SFRQ9mu5mVuMrBBfWWo",
+            "serverName": "super-rush-4ueswnxt.expresshost.cloud",
+            "shortId": "8419b63e2a5d1679"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -4141,7 +4201,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇩🇪 ger32",
+    "remarks": "🇩🇪 ger31",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
@@ -4209,7 +4269,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "super-rush-4ueswnxt.expresshost.cloud",
+              "address": "cyber-storm-dmb0vajl.expresshost.cloud",
               "port": 443,
               "users": [
                 {
@@ -4225,9 +4285,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "a2L4bfsKURJvBV66mqbmbFQ6SFRQ9mu5mVuMrBBfWWo",
-            "serverName": "super-rush-4ueswnxt.expresshost.cloud",
-            "shortId": "8419b63e2a5d1679"
+            "publicKey": "x5_TgIxJjhadSGuhSD51DYQ65Sgn4dzfut89BoSWiUI",
+            "serverName": "cyber-storm-dmb0vajl.expresshost.cloud",
+            "shortId": "e0770ed5f7506d73"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -4243,7 +4303,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇩🇪 ger31",
+    "remarks": "🇵🇱 pl28",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
