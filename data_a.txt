@@ -63,7 +63,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "31.59.217.141",
+              "address": "72.56.22.154",
               "port": 2083,
               "users": [
                 {
@@ -93,7 +93,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "ger29.24lunar.ru",
+              "address": "31.59.217.141",
               "port": 2083,
               "users": [
                 {
@@ -123,7 +123,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "frozen-core-xg1xzzqc.expresshost.cloud",
+              "address": "ger29.24lunar.ru",
               "port": 2083,
               "users": [
                 {
@@ -153,6 +153,36 @@
         "settings": {
           "vnext": [
             {
+              "address": "frozen-core-xg1xzzqc.expresshost.cloud",
+              "port": 2083,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "PxDQzOaXO4BhoQhnmuBEbf4NecQhkzpi2ZaSrR9gWDk",
+            "serverName": "www.cloudflare.com",
+            "shortId": "aefbcf7fc283bd55"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-4"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "31.76.241.222",
               "port": 443,
               "users": [
@@ -176,7 +206,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-4"
+        "tag": "proxy-5"
       },
       {
         "protocol": "vless",
@@ -206,7 +236,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-5"
+        "tag": "proxy-6"
       },
       {
         "protocol": "vless",
@@ -236,7 +266,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-6"
+        "tag": "proxy-7"
       },
       {
         "protocol": "vless",
@@ -266,7 +296,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-7"
+        "tag": "proxy-8"
       },
       {
         "protocol": "vless",
@@ -296,7 +326,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-8"
+        "tag": "proxy-9"
       },
       {
         "protocol": "vless",
@@ -326,7 +356,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-9"
+        "tag": "proxy-10"
       },
       {
         "protocol": "vless",
@@ -356,7 +386,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-10"
+        "tag": "proxy-11"
       },
       {
         "protocol": "vless",
@@ -386,7 +416,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-11"
+        "tag": "proxy-12"
       },
       {
         "protocol": "vless",
@@ -416,7 +446,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-12"
+        "tag": "proxy-13"
       },
       {
         "protocol": "vless",
@@ -446,7 +476,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-13"
+        "tag": "proxy-14"
       },
       {
         "protocol": "vless",
@@ -476,7 +506,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-14"
+        "tag": "proxy-15"
       },
       {
         "protocol": "vless",
@@ -506,7 +536,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-15"
+        "tag": "proxy-16"
       },
       {
         "protocol": "vless",
@@ -536,7 +566,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-16"
+        "tag": "proxy-17"
       },
       {
         "protocol": "vless",
@@ -566,7 +596,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-17"
+        "tag": "proxy-18"
       },
       {
         "protocol": "vless",
@@ -596,7 +626,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-18"
+        "tag": "proxy-19"
       },
       {
         "protocol": "vless",
@@ -626,7 +656,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-19"
+        "tag": "proxy-20"
       },
       {
         "protocol": "vless",
@@ -656,7 +686,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-20"
+        "tag": "proxy-21"
       },
       {
         "protocol": "vless",
@@ -686,7 +716,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-21"
+        "tag": "proxy-22"
       },
       {
         "protocol": "vless",
@@ -719,126 +749,6 @@
         "tag": "ruyt"
       },
       {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "nl2.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "U71TZ9P6Ms5QMafgweRrrSgNAU946EHpzM9dWnWwlis",
-            "serverName": "nl2.24lunar.ru",
-            "shortId": "ea47965e29145538"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "tg"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "nl4.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "ZUNgfPtmCVIn8dZ4_IE9hUxgEWrTEcX5RMcF9oku_mw",
-            "serverName": "nl4.24lunar.ru",
-            "shortId": "1efe1a3b01dd7107"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "tg-2"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "nl39.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "mlTq5lIEhhm452KWbu6UVyEFxeyQ7Hpf_LpH0Gh0IBE",
-            "serverName": "nl39.24lunar.ru",
-            "shortId": "cbe201fcc97d09d3"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "tg-3"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "hidden-thunder-4v6c1zzi.expresshost.cloud",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "kMX8JZMlXmfLXrFr66WyeidLDMqC-HTVVGWWQa32Wi8",
-            "serverName": "hidden-thunder-4v6c1zzi.expresshost.cloud",
-            "shortId": "05262c26384ac42f"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "tg-4"
-      },
-      {
         "protocol": "freedom",
         "tag": "direct"
       },
@@ -856,19 +766,17 @@
             "proxy"
           ],
           "strategy": {
-            "type": "random"
+            "settings": {
+              "baselines": [
+                "120ms",
+                "250ms",
+                "500ms"
+              ],
+              "expected": 3
+            },
+            "type": "leastLoad"
           },
           "tag": "AUTO"
-        },
-        {
-          "fallbackTag": "tg",
-          "selector": [
-            "tg"
-          ],
-          "strategy": {
-            "type": "random"
-          },
-          "tag": "TG"
         }
       ],
       "domainStrategy": "AsIs",
@@ -897,6 +805,12 @@
           "type": "field"
         },
         {
+          "network": "udp",
+          "outboundTag": "block",
+          "port": 443,
+          "type": "field"
+        },
+        {
           "balancerTag": "AUTO",
           "domain": [
             "tiktok.com",
@@ -907,77 +821,6 @@
             "ibytedtos.com",
             "bytedance.com",
             "musical.ly"
-          ],
-          "type": "field"
-        },
-        {
-          "balancerTag": "AUTO",
-          "domain": [
-            "domain:kinogo.online",
-            "domain:roblox.com",
-            "domain:rbxcdn.com",
-            "domain:rbx.com",
-            "domain:rbxcloud.com",
-            "domain:supercell.com",
-            "domain:supercell.net",
-            "domain:brawlstarsgame.com",
-            "domain:clashofclans.com",
-            "domain:clashroyale.com",
-            "domain:haydaygame.com",
-            "domain:whatsapp.com",
-            "domain:whatsapp.net",
-            "domain:facebook.com",
-            "domain:fbcdn.net",
-            "domain:fbcdn.com",
-            "domain:messenger.com",
-            "domain:zoom.us",
-            "domain:zoom.com"
-          ],
-          "type": "field"
-        },
-        {
-          "balancerTag": "TG",
-          "domain": [
-            "domain:telegram.org",
-            "domain:t.me",
-            "domain:telegram.me",
-            "domain:api.telegram.org",
-            "domain:tdesktop.com",
-            "domain:telegra.ph",
-            "domain:telesco.pe"
-          ],
-          "type": "field"
-        },
-        {
-          "balancerTag": "TG",
-          "domain": [
-            "domain:openai.com",
-            "domain:chatgpt.com",
-            "domain:oaistatic.com",
-            "domain:oaiusercontent.com",
-            "domain:auth.openai.com",
-            "domain:api.openai.com",
-            "domain:platform.openai.com"
-          ],
-          "type": "field"
-        },
-        {
-          "balancerTag": "TG",
-          "ip": [
-            "91.108.56.0/22",
-            "91.108.4.0/22",
-            "91.108.8.0/22",
-            "91.108.16.0/22",
-            "91.108.12.0/22",
-            "149.154.160.0/20",
-            "91.105.192.0/23",
-            "91.108.20.0/22",
-            "185.76.151.0/24",
-            "2001:b28:f23d::/48",
-            "2001:b28:f23f::/48",
-            "2001:67c:4e8::/48",
-            "2001:b28:f23c::/48",
-            "2a0a:f280::/32"
           ],
           "type": "field"
         },
@@ -1004,221 +847,43 @@
         },
         {
           "ip": [
+            "127.0.0.0/8",
             "10.0.0.0/8",
             "172.16.0.0/12",
-            "192.168.0.0/16",
-            "127.0.0.0/8",
-            "169.254.0.0/16",
-            "100.64.0.0/10",
-            "37.220.164.100/32",
-            "46.235.184.211/32",
-            "46.235.186.77/32",
-            "46.235.188.74/32",
-            "46.235.188.75/32",
-            "80.85.240.40/32",
-            "178.248.238.27/32",
-            "178.248.238.28/32",
-            "185.65.150.1/32",
-            "212.193.157.164/32",
-            "213.24.64.140/32",
-            "213.24.64.175/32",
-            "213.24.64.181/32"
+            "192.168.0.0/16"
           ],
           "outboundTag": "direct",
           "type": "field"
         },
         {
           "domain": [
-            "regexp:.\\.ru",
-            "regexp:.*\\.рф",
-            "regexp:.\\.su ",
-            "domain:cp.cloudflare.com",
-            "domain:msftconnecttest.com",
-            "domain:msftncsi.com",
-            "domain:connectivitycheck.gstatic.com",
-            "domain:captive.apple.com",
-            "domain:detectportal.firefox.com",
-            "domain:networkcheck.kde.org",
-            "domain:gstatic.com",
-            "domain:vk.com",
-            "domain:vk.me",
-            "domain:userapi.com",
-            "domain:vkuseraudio.net",
-            "domain:vk-cdn.net",
-            "domain:vk-apps.com",
-            "domain:vk.link",
-            "domain:mvcdn.me",
-            "domain:cdn.ngenix.net",
-            "domain:s78717.cdn.ngenix.net",
-            "domain:emias.info",
-            "domain:app.emias.info",
-            "domain:yandex.net",
-            "domain:yandex.com",
-            "domain:yastatic.net",
-            "domain:yandex.st",
-            "domain:yandexcloud.net",
-            "domain:go.yandex",
-            "domain:sberbank.com",
-            "domain:vtb.com",
-            "domain:alfabank.com",
-            "domain:alfa.me",
-            "domain:tochka.com",
-            "domain:qiwi.com",
-            "domain:terratraf.io",
-            "domain:t-tech.team",
-            "domain:gravityfield.ai",
-            "domain:diginetica.net",
-            "domain:retailrocket.net",
-            "domain:flocktory.com",
-            "domain:mindbox.cloud",
-            "domain:appsflyer.com",
-            "domain:onelink.me",
-            "domain:branch.io",
-            "domain:adjust.com",
-            "domain:lenta.com",
-            "domain:coolclever.tech",
-            "domain:ozonusercontent.com",
-            "domain:wbstatic.net",
-            "domain:avito.st",
-            "domain:svo.aero",
-            "domain:pobeda.aero",
-            "domain:onetwotrip.com",
-            "domain:level.travel",
-            "domain:reddit.com",
-            "domain:redd.it",
-            "domain:redditmedia.com",
-            "domain:redditstatic.com",
-            "domain:premier.one",
-            "domain:okko.tv",
-            "domain:more.tv",
-            "domain:zvuk.com",
-            "domain:moedelo.org",
-            "domain:2gis.com",
-            "domain:cloudpayments.ru",
-            "domain:ip-api.com",
-            "domain:ipify.org",
-            "domain:ipinfo.io",
-            "domain:gosuslugi.ru",
-            "domain:ifconfig.me",
-            "domain:ifconfig.co",
-            "domain:ifconfig.io",
-            "domain:icanhazip.com",
-            "domain:checkip.amazonaws.com",
-            "domain:checkip.global.api.aws",
-            "domain:ident.me",
-            "domain:tnedi.me",
-            "domain:myip.com",
-            "domain:ipecho.net",
-            "domain:wtfismyip.com",
-            "domain:jsonip.com",
-            "domain:getjsonip.com",
-            "domain:seeip.org",
-            "domain:myexternalip.com",
-            "domain:checkip.dyndns.org",
-            "domain:checkip.dyn.com",
-            "domain:eth0.me",
-            "domain:l2.io",
-            "domain:ip.sb",
-            "domain:ip.me",
-            "full:whatismyip.akamai.com",
-            "full:myip.dnsomatic.com",
-            "domain:yadi.sk",
-            "domain:payture.com",
-            "domain:kari.com",
-            "domain:zolla.com",
-            "domain:sunlight.net",
-            "domain:etagi.com",
-            "domain:drive2.com",
-            "domain:rossiya-airlines.com",
-            "domain:flyredwings.com",
-            "domain:101hotels.com",
-            "domain:bronevik.com",
-            "domain:ivi.tv",
-            "domain:ren.tv",
-            "domain:mir24.tv",
-            "domain:championat.com",
-            "domain:fishki.net",
-            "domain:kinoafisha.info",
-            "domain:zaycev.net",
-            "domain:stepik.org",
-            "domain:videouroki.net",
-            "domain:puzzle-english.com",
-            "domain:metanit.com",
-            "domain:list-org.com",
-            "domain:youdo.com",
-            "domain:kudago.com",
-            "domain:1cfresh.com",
-            "domain:yougile.com",
-            "domain:weeek.net",
-            "domain:unisender.com",
-            "domain:salebot.pro",
-            "domain:4game.com",
-            "domain:yappy.media",
-            "domain:yandex.cloud",
-            "domain:yastat.net",
-            "domain:ya.cc",
-            "domain:naydex.net",
-            "domain:turbopages.org",
-            "domain:webvisor.com",
-            "domain:yandexadexchange.net",
-            "domain:vk.cc",
-            "domain:vk.team",
-            "domain:vk.company",
-            "domain:vkuser.net",
-            "domain:vk-portal.net",
-            "domain:vkuserlive.net",
-            "domain:vkmessenger.com",
-            "domain:vkmessenger.app",
-            "domain:vkuseraudio.com",
-            "domain:vkuservideo.com",
-            "domain:vkplay.live",
-            "domain:ok.me",
-            "domain:my.com",
-            "domain:mradx.net",
-            "domain:boosty.to",
-            "domain:donationalerts.com",
-            "domain:tamtam.chat",
-            "domain:giga.chat",
-            "domain:okko.sport",
-            "domain:okkoapi.tv",
-            "domain:sberauto.com",
-            "domain:tbank-online.com",
-            "domain:tinkoffmobile.com",
-            "domain:moex.com",
-            "domain:best2pay.net",
-            "domain:alfabank.st",
-            "domain:ozon.travel",
-            "domain:ozon.com",
-            "domain:wbcontent.net",
-            "domain:paywb.com",
-            "domain:ostin.com",
-            "domain:fix-price.com",
-            "domain:flowwow.com",
-            "domain:taxsee.com",
-            "domain:ivicdn.tv",
-            "domain:ixbt.com",
-            "domain:24h.tv",
-            "domain:smotreshka.tv",
-            "domain:rutube.sport",
-            "domain:tildacdn.com",
-            "domain:timeweb.com",
-            "domain:timeweb.cloud",
-            "domain:beget.com",
-            "domain:drweb.com",
-            "domain:yclients.com",
-            "domain:ngenix.net",
-            "domain:trbcdn.net",
-            "domain:selcdn.net",
-            "domain:selectel.com",
-            "domain:mcc250.pub.3gppnetwork.org",
-            "domain:megafon.com",
-            "domain:beeline.tv",
-            "domain:dodois.io",
-            "domain:dodostatic.net",
-            "domain:skillbox.pro",
-            "domain:sky.pro",
-            "domain:umschool.net",
-            "domain:medsi.com"
+            "regexp:\\.ru$",
+            "regexp:\\.su$",
+            "regexp:\\.xn--p1ai$",
+            "vk.com",
+            "vk.me",
+            "userapi.com",
+            "yandex.net",
+            "yastatic.net",
+            "ozonusercontent.com",
+            "wbstatic.net",
+            "avito.st",
+            "terratraf.io",
+            "t-tech.team",
+            "gravityfield.ai",
+            "diginetica.net",
+            "retailrocket.net",
+            "flocktory.com",
+            "mindbox.cloud",
+            "appsflyer.com",
+            "onelink.me",
+            "branch.io",
+            "adjust.com",
+            "cloudpayments.ru",
+            "qiwi.com",
+            "ip-api.com",
+            "ipify.org",
+            "ipinfo.io"
           ],
           "outboundTag": "direct",
           "type": "field"
@@ -4035,8 +3700,8 @@
         "settings": {
           "vnext": [
             {
-              "address": "thunder-fury-7swrci5h.expresshost.cloud",
-              "port": 443,
+              "address": "b1.24lunar.ru",
+              "port": 47000,
               "users": [
                 {
                   "encryption": "none",
@@ -4051,9 +3716,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "diExM2haa_2rfI5awg8LYaP-bUb-lGU2YqalXmLWnDc",
-            "serverName": "thunder-fury-7swrci5h.expresshost.cloud",
-            "shortId": "31da4fd20004501c"
+            "publicKey": "Lo3_V6Bkua24i3qJIeouszCQkPbiyTrRnQODAeXQ-xo",
+            "serverName": "b1.24lunar.ru",
+            "shortId": "b905a328d27a31b9"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -4069,109 +3734,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇵🇱 nw14",
-    "routing": {
-      "domainMatcher": "hybrid",
-      "domainStrategy": "IPIfNonMatch",
-      "rules": [
-        {
-          "outboundTag": "direct",
-          "protocol": [
-            "bittorrent"
-          ],
-          "type": "field"
-        }
-      ]
-    }
-  },
-  {
-    "dns": {
-      "queryStrategy": "UseIP",
-      "servers": [
-        "1.1.1.1",
-        "1.0.0.1"
-      ]
-    },
-    "inbounds": [
-      {
-        "listen": "127.0.0.1",
-        "port": 10808,
-        "protocol": "socks",
-        "settings": {
-          "auth": "noauth",
-          "udp": true
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "socks"
-      },
-      {
-        "listen": "127.0.0.1",
-        "port": 10809,
-        "protocol": "http",
-        "settings": {
-          "allowTransparent": false
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "http"
-      }
-    ],
-    "outbounds": [
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "epic-wolf-nwasgwjt.expresshost.cloud",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "Ym4lDSgGrk48sWsLBQ06-YGiqYEdDiAwMc_CwKzBmR4",
-            "serverName": "epic-wolf-nwasgwjt.expresshost.cloud",
-            "shortId": "2f162c1bbae70d83"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy"
-      },
-      {
-        "protocol": "freedom",
-        "tag": "direct"
-      },
-      {
-        "protocol": "blackhole",
-        "tag": "block"
-      }
-    ],
-    "remarks": "🇵🇱 nw15",
+    "remarks": "🇳🇱 b1.",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
