@@ -4035,12 +4035,12 @@
         "settings": {
           "vnext": [
             {
-              "address": "crimson-ghost-nedaikw8.expresshost.cloud",
-              "port": 47500,
+              "address": "thunder-fury-7swrci5h.expresshost.cloud",
+              "port": 443,
               "users": [
                 {
                   "encryption": "none",
-                  "flow": "",
+                  "flow": "xtls-rprx-vision",
                   "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
                 }
               ]
@@ -4048,19 +4048,15 @@
           ]
         },
         "streamSettings": {
-          "network": "xhttp",
+          "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "SqOvc-iTZinQSmRKbcasfIAvW_-pgailXwkchtQwuyA",
-            "serverName": "crimson-ghost-nedaikw8.expresshost.cloud",
-            "shortId": "978aed9f90946c94"
+            "publicKey": "diExM2haa_2rfI5awg8LYaP-bUb-lGU2YqalXmLWnDc",
+            "serverName": "thunder-fury-7swrci5h.expresshost.cloud",
+            "shortId": "31da4fd20004501c"
           },
           "security": "reality",
-          "xhttpSettings": {
-            "host": "",
-            "mode": "auto",
-            "path": "/b1e29849af"
-          }
+          "tcpSettings": {}
         },
         "tag": "proxy"
       },
@@ -4073,7 +4069,109 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇩🇪 Германия 2",
+    "remarks": "🇵🇱 nw14",
+    "routing": {
+      "domainMatcher": "hybrid",
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "outboundTag": "direct",
+          "protocol": [
+            "bittorrent"
+          ],
+          "type": "field"
+        }
+      ]
+    }
+  },
+  {
+    "dns": {
+      "queryStrategy": "UseIP",
+      "servers": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ],
+          "enabled": true,
+          "routeOnly": false
+        },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": {
+          "allowTransparent": false
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ],
+          "enabled": true,
+          "routeOnly": false
+        },
+        "tag": "http"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "epic-wolf-nwasgwjt.expresshost.cloud",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "Ym4lDSgGrk48sWsLBQ06-YGiqYEdDiAwMc_CwKzBmR4",
+            "serverName": "epic-wolf-nwasgwjt.expresshost.cloud",
+            "shortId": "2f162c1bbae70d83"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      {
+        "protocol": "freedom",
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "tag": "block"
+      }
+    ],
+    "remarks": "🇵🇱 nw15",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
