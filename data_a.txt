@@ -1746,7 +1746,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇷🇺 Russia + Игровой  | Vless1",
+    "remarks": "🇷🇺 Russia + Игровой  | Vless",
     "routing": {
       "balancers": [
         {
