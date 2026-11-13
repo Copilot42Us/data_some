@@ -1369,9 +1369,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "ZWUbsPT8cQM68UOKYFulZhqmcg0bcpj_wXspm3wpByc",
+            "publicKey": "WmFSWO7_s6AMEgRdggirei3Fo_CSaDF-HsZkTxplfHI",
             "serverName": "b43.24lunar.ru",
-            "shortId": "96e454bf027d2e0a"
+            "shortId": "13c0bd48880b99b5"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -2895,9 +2895,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "ZWUbsPT8cQM68UOKYFulZhqmcg0bcpj_wXspm3wpByc",
+            "publicKey": "WmFSWO7_s6AMEgRdggirei3Fo_CSaDF-HsZkTxplfHI",
             "serverName": "b43.24lunar.ru",
-            "shortId": "96e454bf027d2e0a"
+            "shortId": "13c0bd48880b99b5"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -4053,9 +4053,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "ZWUbsPT8cQM68UOKYFulZhqmcg0bcpj_wXspm3wpByc",
+            "publicKey": "WmFSWO7_s6AMEgRdggirei3Fo_CSaDF-HsZkTxplfHI",
             "serverName": "b43.24lunar.ru",
-            "shortId": "96e454bf027d2e0a"
+            "shortId": "13c0bd48880b99b5"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -6084,9 +6084,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "ZWUbsPT8cQM68UOKYFulZhqmcg0bcpj_wXspm3wpByc",
+            "publicKey": "WmFSWO7_s6AMEgRdggirei3Fo_CSaDF-HsZkTxplfHI",
             "serverName": "b43.24lunar.ru",
-            "shortId": "96e454bf027d2e0a"
+            "shortId": "13c0bd48880b99b5"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -6684,9 +6684,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "firefox",
-            "publicKey": "ZWUbsPT8cQM68UOKYFulZhqmcg0bcpj_wXspm3wpByc",
+            "publicKey": "WmFSWO7_s6AMEgRdggirei3Fo_CSaDF-HsZkTxplfHI",
             "serverName": "b43.24lunar.ru",
-            "shortId": "96e454bf027d2e0a"
+            "shortId": "13c0bd48880b99b5"
           },
           "security": "reality",
           "tcpSettings": {}
