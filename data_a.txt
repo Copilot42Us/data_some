@@ -1203,6 +1203,36 @@
         "settings": {
           "vnext": [
             {
+              "address": "c11.24lunar.ru",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "y53hGvWaOzjREwLNdkFjksgdSw8peEBBgrjhbwHxORQ",
+            "serverName": "c11.24lunar.ru",
+            "shortId": "2ed7e1227e78a6cc"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-39"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "bs1.24lunar.ru",
               "port": 440,
               "users": [
@@ -4597,6 +4627,36 @@
         "tag": "proxy-24"
       },
       {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "c11.24lunar.ru",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "y53hGvWaOzjREwLNdkFjksgdSw8peEBBgrjhbwHxORQ",
+            "serverName": "c11.24lunar.ru",
+            "shortId": "2ed7e1227e78a6cc"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-25"
+      },
+      {
         "protocol": "freedom",
         "tag": "direct"
       },
@@ -5002,108 +5062,6 @@
       }
     ],
     "remarks": "🇷🇺 Россия | Обход LTE #2",
-    "routing": {
-      "domainMatcher": "hybrid",
-      "domainStrategy": "IPIfNonMatch",
-      "rules": [
-        {
-          "outboundTag": "direct",
-          "protocol": [
-            "bittorrent"
-          ],
-          "type": "field"
-        }
-      ]
-    }
-  },
-  {
-    "dns": {
-      "queryStrategy": "UseIP",
-      "servers": [
-        "1.1.1.1",
-        "1.0.0.1"
-      ]
-    },
-    "inbounds": [
-      {
-        "listen": "127.0.0.1",
-        "port": 10808,
-        "protocol": "socks",
-        "settings": {
-          "auth": "noauth",
-          "udp": true
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "socks"
-      },
-      {
-        "listen": "127.0.0.1",
-        "port": 10809,
-        "protocol": "http",
-        "settings": {
-          "allowTransparent": false
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "http"
-      }
-    ],
-    "outbounds": [
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "c11.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "y53hGvWaOzjREwLNdkFjksgdSw8peEBBgrjhbwHxORQ",
-            "serverName": "c11.24lunar.ru",
-            "shortId": "2ed7e1227e78a6cc"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy"
-      },
-      {
-        "protocol": "freedom",
-        "tag": "direct"
-      },
-      {
-        "protocol": "blackhole",
-        "tag": "block"
-      }
-    ],
-    "remarks": "🇵🇱 c11",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
