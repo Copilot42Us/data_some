@@ -1143,6 +1143,36 @@
         "settings": {
           "vnext": [
             {
+              "address": "188.225.27.106",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "P9rWGsreEF789Oc2rs35dumuKHgyZllk1snGEOkze3s",
+            "serverName": "k2.24lunar.ru",
+            "shortId": "bf820e1c938c8b7c"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-37"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "bs1.24lunar.ru",
               "port": 440,
               "users": [
@@ -2455,6 +2485,36 @@
         "tag": "proxy-20"
       },
       {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "188.225.27.106",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "P9rWGsreEF789Oc2rs35dumuKHgyZllk1snGEOkze3s",
+            "serverName": "k2.24lunar.ru",
+            "shortId": "bf820e1c938c8b7c"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-21"
+      },
+      {
         "protocol": "freedom",
         "tag": "direct"
       },
@@ -3521,6 +3581,36 @@
           "tcpSettings": {}
         },
         "tag": "proxy-18"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "188.225.27.106",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "P9rWGsreEF789Oc2rs35dumuKHgyZllk1snGEOkze3s",
+            "serverName": "k2.24lunar.ru",
+            "shortId": "bf820e1c938c8b7c"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-19"
       },
       {
         "protocol": "freedom",
