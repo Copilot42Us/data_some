@@ -7,17 +7,17 @@
         "sampling": 3,
         "timeout": "3s"
       },
-      "subjectSelector": [ewewedfsf
+      "subjectSelector": [
         "proxy"
       ]
     },
     "dns": {
       "queryStrategy": "UseIPv4",
-      "servers": [cxvcxvcvgrergd
+      "servers": [
         "1.1.1.1",
         "1.0.0.1"
       ]
-    },fgdgdgfdg
+    },
     "inbounds": [
       {
         "listen": "127.0.0.1",
