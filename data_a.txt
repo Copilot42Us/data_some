@@ -363,36 +363,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "stellar-cloud-uhag4lkk.expresshost.cloud",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "HeihbYjaMPYLTFoNnqFlmpHItbg3OruaiKA6ewuWdSI",
-            "serverName": "stellar-cloud-uhag4lkk.expresshost.cloud",
-            "shortId": "5e5bb31c7abccee5"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-11"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "galactic-storm-rkwhjb7j.expresshost.cloud",
               "port": 47000,
               "users": [
@@ -416,7 +386,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-12"
+        "tag": "proxy-11"
       },
       {
         "protocol": "vless",
@@ -446,7 +416,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-13"
+        "tag": "proxy-12"
       },
       {
         "protocol": "vless",
@@ -476,7 +446,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-14"
+        "tag": "proxy-13"
       },
       {
         "protocol": "vless",
@@ -506,7 +476,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-15"
+        "tag": "proxy-14"
       },
       {
         "protocol": "vless",
@@ -536,7 +506,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-16"
+        "tag": "proxy-15"
       },
       {
         "protocol": "vless",
@@ -566,7 +536,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-17"
+        "tag": "proxy-16"
       },
       {
         "protocol": "vless",
@@ -596,7 +566,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-18"
+        "tag": "proxy-17"
       },
       {
         "protocol": "vless",
@@ -626,7 +596,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-19"
+        "tag": "proxy-18"
       },
       {
         "protocol": "vless",
@@ -656,7 +626,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-20"
+        "tag": "proxy-19"
       },
       {
         "protocol": "vless",
@@ -686,7 +656,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-21"
+        "tag": "proxy-20"
       },
       {
         "protocol": "vless",
@@ -716,7 +686,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-22"
+        "tag": "proxy-21"
       },
       {
         "protocol": "vless",
@@ -746,7 +716,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-23"
+        "tag": "proxy-22"
       },
       {
         "protocol": "vless",
@@ -776,7 +746,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-24"
+        "tag": "proxy-23"
       },
       {
         "protocol": "vless",
@@ -806,7 +776,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-25"
+        "tag": "proxy-24"
       },
       {
         "protocol": "vless",
@@ -836,7 +806,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-26"
+        "tag": "proxy-25"
       },
       {
         "protocol": "vless",
@@ -3731,36 +3701,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "stellar-cloud-uhag4lkk.expresshost.cloud",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "HeihbYjaMPYLTFoNnqFlmpHItbg3OruaiKA6ewuWdSI",
-            "serverName": "stellar-cloud-uhag4lkk.expresshost.cloud",
-            "shortId": "5e5bb31c7abccee5"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-2"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "galactic-storm-rkwhjb7j.expresshost.cloud",
               "port": 47000,
               "users": [
@@ -3784,7 +3724,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-3"
+        "tag": "proxy-2"
       },
       {
         "protocol": "vless",
@@ -3814,7 +3754,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-4"
+        "tag": "proxy-3"
       },
       {
         "protocol": "vless",
@@ -3844,7 +3784,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-5"
+        "tag": "proxy-4"
       },
       {
         "protocol": "vless",
@@ -3874,7 +3814,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-6"
+        "tag": "proxy-5"
       },
       {
         "protocol": "vless",
@@ -3904,7 +3844,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-7"
+        "tag": "proxy-6"
       },
       {
         "protocol": "vless",
@@ -3934,7 +3874,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-8"
+        "tag": "proxy-7"
       },
       {
         "protocol": "freedom",
@@ -4444,6 +4384,108 @@
       }
     ],
     "remarks": "🇷🇺 Россия | Обход LTE №2",
+    "routing": {
+      "domainMatcher": "hybrid",
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "outboundTag": "direct",
+          "protocol": [
+            "bittorrent"
+          ],
+          "type": "field"
+        }
+      ]
+    }
+  },
+  {
+    "dns": {
+      "queryStrategy": "UseIP",
+      "servers": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ],
+          "enabled": true,
+          "routeOnly": false
+        },
+        "tag": "socks"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": {
+          "allowTransparent": false
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ],
+          "enabled": true,
+          "routeOnly": false
+        },
+        "tag": "http"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "chrome-orbit-hoioja3w.expresshost.cloud",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "c0mYCgKisbcKQMBxlQufucsf24EUrr1P9x9iMOalShI",
+            "serverName": "chrome-orbit-hoioja3w.expresshost.cloud",
+            "shortId": "165b09afdd9c4f4a"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy"
+      },
+      {
+        "protocol": "freedom",
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "tag": "block"
+      }
+    ],
+    "remarks": "🇵🇱 ex4",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
