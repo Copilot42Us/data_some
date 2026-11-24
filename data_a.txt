@@ -108,7 +108,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "PxDQzOaXO4BhoQhnmuBEbf4NecQhkzpi2ZaSrR9gWDk",
             "serverName": "www.cloudflare.com",
             "shortId": "aefbcf7fc283bd55"
@@ -138,7 +138,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "PxDQzOaXO4BhoQhnmuBEbf4NecQhkzpi2ZaSrR9gWDk",
             "serverName": "www.cloudflare.com",
             "shortId": "aefbcf7fc283bd55"
@@ -168,7 +168,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "ywCaLTJfuM94ujujtUrovJJmuVE2R-bGrmLJhVxCsH4",
             "serverName": "nl7.24lunar.ru",
             "shortId": "1912020ef5ace474"
@@ -198,7 +198,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "dnMQOx1AndRD9LZUlLjF6_nkGxkhU_M9xU4Awtk6UWI",
             "serverName": "nl24.24lunar.ru",
             "shortId": "8788e334005f07be"
@@ -228,7 +228,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "mlTq5lIEhhm452KWbu6UVyEFxeyQ7Hpf_LpH0Gh0IBE",
             "serverName": "nl39.24lunar.ru",
             "shortId": "cbe201fcc97d09d3"
@@ -237,36 +237,6 @@
           "tcpSettings": {}
         },
         "tag": "proxy-6"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "a4.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "e9ypE6zP4uUrzwaKPGj70cnyqJ1SB-t8T4pPPtMYUhk",
-            "serverName": "a4.24lunar.ru",
-            "shortId": "0188cf2b7f5a2a41"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-7"
       },
       {
         "protocol": "vless",
@@ -288,7 +258,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "RvhUXnBEYgMVtZl8HA6iQtSe_aMvCy2GfXldoluxEyo",
             "serverName": "c6.24lunar.ru",
             "shortId": "20f1e47c9b26f05b"
@@ -296,7 +266,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-8"
+        "tag": "proxy-7"
       },
       {
         "protocol": "vless",
@@ -318,7 +288,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "vHbZfBfrUt-xiKXDXnp_AnbBzyTtz7SAwnKwj_il-h8",
             "serverName": "c5.24lunar.ru",
             "shortId": "be8dc68fe846ab47"
@@ -326,7 +296,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-9"
+        "tag": "proxy-8"
       },
       {
         "protocol": "vless",
@@ -348,7 +318,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "rMUr1d-LmteD3HgMkr_ZEx1jX4ETPXcAj8vxDVUKsCI",
             "serverName": "b93.24lunar.ru",
             "shortId": "961e1afa454fecfd"
@@ -356,7 +326,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-10"
+        "tag": "proxy-9"
       },
       {
         "protocol": "vless",
@@ -378,7 +348,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "2LPdx9eQv-jy1wC0MQolPiCcsdXUnNnno9CWjJ0JJWM",
             "serverName": "b90.24lunar.ru",
             "shortId": "5657bd19e213a137"
@@ -386,7 +356,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-11"
+        "tag": "proxy-10"
       },
       {
         "protocol": "vless",
@@ -408,7 +378,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "c0mYCgKisbcKQMBxlQufucsf24EUrr1P9x9iMOalShI",
             "serverName": "chrome-orbit-hoioja3w.expresshost.cloud",
             "shortId": "165b09afdd9c4f4a"
@@ -416,7 +386,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-12"
+        "tag": "proxy-11"
       },
       {
         "protocol": "vless",
@@ -438,7 +408,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "LsxDXGyvZoSMfhAa7x_nLS_Kh2EqxlVF1pIX0gOD9lk",
             "serverName": "light-cloud-p9m22v8g.expresshost.cloud",
             "shortId": "c30a9d14fa8119cf"
@@ -446,7 +416,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-13"
+        "tag": "proxy-12"
       },
       {
         "protocol": "vless",
@@ -468,7 +438,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "NkPm32MW8XQXJoyiO48X9cJuaJsCQU9sJwlQ6gEFJQk",
             "serverName": "prime-forge-w8nxpejx.expresshost.cloud",
             "shortId": "14c7b997a239bbc2"
@@ -476,7 +446,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-14"
+        "tag": "proxy-13"
       },
       {
         "protocol": "vless",
@@ -498,7 +468,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "W9DSS403aS554LGCah3i93XotLXbpTDz_FeGMKOfwFY",
             "serverName": "digital-ocean-pppxbslq.expresshost.cloud",
             "shortId": "93f5ed5925ab6a94"
@@ -506,7 +476,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-15"
+        "tag": "proxy-14"
       },
       {
         "protocol": "vless",
@@ -528,7 +498,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "tD8qLfg7d9vMGGpNPwR36yhsoMnRe5S83zfXqwH2xFs",
             "serverName": "azure-spirit-d2pzx5a6.expresshost.cloud",
             "shortId": "29b136f355084807"
@@ -536,7 +506,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-16"
+        "tag": "proxy-15"
       },
       {
         "protocol": "vless",
@@ -558,7 +528,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "qAofVQeZRyt3i7tlSciuoB_3mSCJujMCZ6R50ZSfSWs",
             "serverName": "chrome-sun-teymjbg1.expresshost.cloud",
             "shortId": "b8b3f9446b404ca9"
@@ -566,7 +536,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-17"
+        "tag": "proxy-16"
       },
       {
         "protocol": "vless",
@@ -588,7 +558,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "KNGUz526iCLpIY_DD-lSRlDhRACnawyX9wVUeDYxmQI",
             "serverName": "alpha-pulse-odtrhjwq.expresshost.cloud",
             "shortId": "0e0518549c968639"
@@ -596,7 +566,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-18"
+        "tag": "proxy-17"
       },
       {
         "protocol": "vless",
@@ -618,7 +588,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "g3JrSfXrjfH-RggpMMUy_b-go2nB1ybRDTadhCbt5l4",
             "serverName": "blazing-echo-jwcdxuzi.expresshost.cloud",
             "shortId": "734d2a5cd7300d1b"
@@ -626,7 +596,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-19"
+        "tag": "proxy-18"
       },
       {
         "protocol": "vless",
@@ -648,7 +618,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "_hmUHlA8ScKc076bEXk67EI_IIF_5cMlxhvSyBgAQDU",
             "serverName": "lunar-matrix-cptqhzuo.expresshost.cloud",
             "shortId": "79426d38b09c783c"
@@ -656,7 +626,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-20"
+        "tag": "proxy-19"
       },
       {
         "protocol": "vless",
@@ -678,7 +648,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "UUYvX6TPSxNqih5vIsMyaJ87PHIZnNBMkkkY-Bb_Q2E",
             "serverName": "lunar-falcon-7xpprogm.expresshost.cloud",
             "shortId": "7e3136ec20454bf2"
@@ -686,7 +656,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-21"
+        "tag": "proxy-20"
       },
       {
         "protocol": "vless",
@@ -708,7 +678,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "96DN6UYffdCMBolJ4Phz2ICLCI_RXATB2Nze74duZXU",
             "serverName": "frozen-spirit-3xaahkb8.expresshost.cloud",
             "shortId": "f488da5985488c10"
@@ -716,7 +686,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-22"
+        "tag": "proxy-21"
       },
       {
         "protocol": "vless",
@@ -738,7 +708,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "huX1uYhw8ZAB5OsWHCvT5KTN1Hzxm66hANGui5DoWX8",
             "serverName": "flying-thunder-ikvtagrm.expresshost.cloud",
             "shortId": "7d3cb7c1079e5251"
@@ -746,7 +716,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-23"
+        "tag": "proxy-22"
       },
       {
         "protocol": "vless",
@@ -768,7 +738,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "dY_MWDz2KYtz75P7ZqZ6MeAljsox0oUMuWL_QtjaElU",
             "serverName": "stellar-flux-5jfz4va2.expresshost.cloud",
             "shortId": "20f542a4d8eaedf0"
@@ -776,7 +746,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-24"
+        "tag": "proxy-23"
       },
       {
         "protocol": "vless",
@@ -798,7 +768,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "59PjGUByAnJEuwGwO2Z-qo9Bh3UlWAk6KFlv5myMv2I",
             "serverName": "rogue-cipher-qcuwcks4.expresshost.cloud",
             "shortId": "40aee022c8c26e85"
@@ -806,7 +776,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-25"
+        "tag": "proxy-24"
       },
       {
         "protocol": "vless",
@@ -828,7 +798,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "6MWd0QE1qe8nI-E-MecTsGtFjnsJTr92elbMuBG8mEc",
             "serverName": "blazing-moon-rbuvazov.expresshost.cloud",
             "shortId": "a17fa3bf54a2e179"
@@ -836,7 +806,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-26"
+        "tag": "proxy-25"
       },
       {
         "protocol": "vless",
@@ -858,7 +828,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "As9jX4vrT2Yla9eEkDiGiV3BCaPCAR-lA9uALnS1BxI",
             "serverName": "nl2.24lunar.ru",
             "shortId": "5de58e7a928c6933"
@@ -866,7 +836,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-27"
+        "tag": "proxy-26"
       },
       {
         "protocol": "vless",
@@ -888,7 +858,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "jjs_T92kgWBtjnphIMg11N1luboI4ivdTzjrUhR9bk0",
             "serverName": "j24.24lunar.ru",
             "shortId": "780beb7c7cece0e6"
@@ -896,7 +866,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-28"
+        "tag": "proxy-27"
       },
       {
         "protocol": "vless",
@@ -918,7 +888,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "hKUSUfuPXKdVkD7Bq82EJ7PtpuO-ogkz3p30V_EQfic",
             "serverName": "ancient-core-vmndvjwe.expresshost.cloud",
             "shortId": "1ab27dc1edc97d3f"
@@ -926,7 +896,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-29"
+        "tag": "proxy-28"
       },
       {
         "protocol": "vless",
@@ -948,7 +918,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "ctJ9Mv8Oj2EPy0_Lp-BwEQ_nxyqXEg1tVu8r8AOb40A",
             "serverName": "hyper-spark-caw5ednw.expresshost.cloud",
             "shortId": "d3c2e2aba4dfbaa7"
@@ -956,7 +926,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-30"
+        "tag": "proxy-29"
       },
       {
         "protocol": "vless",
@@ -978,7 +948,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "7Cock5iGdW5LAP5lVNy8EkWsQaccjqXlfVahVhEeS2E",
             "serverName": "vortex-prism-rpvl194a.expresshost.cloud",
             "shortId": "01ff89d5dccbf025"
@@ -986,7 +956,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-31"
+        "tag": "proxy-30"
       },
       {
         "protocol": "vless",
@@ -1008,7 +978,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "jdIlSl10oaOK3cy3B8wrQS88ikci21ghVnbzZViMwyc",
             "serverName": "matrix-nova-xuxa59qa.expresshost.cloud",
             "shortId": "365a7470c393fc74"
@@ -1016,7 +986,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-32"
+        "tag": "proxy-31"
       },
       {
         "protocol": "vless",
@@ -1038,7 +1008,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "5vrMJIpr9IDtLH1QTKyb5C2mnglq_Sbpt43oX9PuIXg",
             "serverName": "light-vertex-9v3qvrpk.expresshost.cloud",
             "shortId": "7db0f89b7ecd46f6"
@@ -1046,7 +1016,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-33"
+        "tag": "proxy-32"
       },
       {
         "protocol": "vless",
@@ -1068,7 +1038,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "YmibVdtw3DLRb8yGgjI1QDSR1j3hCasz7uxTNhlt73s",
             "serverName": "swift-aura-g90db1yl.expresshost.cloud",
             "shortId": "b06c7a85cd6ed27d"
@@ -1076,7 +1046,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-34"
+        "tag": "proxy-33"
       },
       {
         "protocol": "vless",
@@ -1098,7 +1068,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "SY8j6mBu3w7tj6pc6P3pHjbAoP9PHCW1LIJbb_hTeFc",
             "serverName": "azure-tiger-smjybek1.expresshost.cloud",
             "shortId": "c441fb0e31863e26"
@@ -1106,7 +1076,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-35"
+        "tag": "proxy-34"
       },
       {
         "protocol": "vless",
@@ -1128,7 +1098,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "-ff41fTzzIuzuhTWdMP1MKCuANqjl8ViFiEHr2OFUQg",
             "serverName": "cosmic-prism-opk8oogu.expresshost.cloud",
             "shortId": "0f3a15f0d0f36dba"
@@ -1136,7 +1106,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-36"
+        "tag": "proxy-35"
       },
       {
         "protocol": "vless",
@@ -1158,7 +1128,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "r_ZYy9v1uX0asYSQDjrFzV-MpZJLBCnnCF1Ovd74NkQ",
             "serverName": "neon-ghost-ywz5fq77.expresshost.cloud",
             "shortId": "6a6c810d4760a9e2"
@@ -1166,7 +1136,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-37"
+        "tag": "proxy-36"
       },
       {
         "protocol": "vless",
@@ -1188,7 +1158,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "m5y4k8gb8lBy67TVzOrSiBxC6oWaSiNZulf6oFN_xhg",
             "serverName": "lunar-thunder-og8erefj.expresshost.cloud",
             "shortId": "5d2eccae759bbee2"
@@ -1196,7 +1166,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-38"
+        "tag": "proxy-37"
       },
       {
         "protocol": "vless",
@@ -1218,7 +1188,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "1j_WS6KkcGSPQXrkc12X7U_H1vVLW1JE585JSbEqUCo",
             "serverName": "fierce-ghost-sjy9qado.expresshost.cloud",
             "shortId": "fa6b87d1ee7901d8"
@@ -1226,7 +1196,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-39"
+        "tag": "proxy-38"
       },
       {
         "protocol": "vless",
@@ -1248,7 +1218,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "ehZD2USs7ngLoVDAwVmQD46zxbgv0RRG2dbAfhGrplY",
             "serverName": "alpha-blade-bejgneau.expresshost.cloud",
             "shortId": "585d4de29aa97b4e"
@@ -1256,7 +1226,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-40"
+        "tag": "proxy-39"
       },
       {
         "protocol": "vless",
@@ -1278,7 +1248,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "UHVn7dzg3l0RjRPkBLzNT3cDtslKmw0P2DHlWSubxwM",
             "serverName": "chrome-ocean-zepbgwal.expresshost.cloud",
             "shortId": "5bee246b657dcd81"
@@ -1286,7 +1256,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-41"
+        "tag": "proxy-40"
       },
       {
         "protocol": "vless",
@@ -1308,7 +1278,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "mpmgrqBPB7KAJEjfBdBL7DmYxj_H6zlaHnp-MhYBRjk",
             "serverName": "hyper-nova-z6wimgtr.expresshost.cloud",
             "shortId": "3f9121cb19eb0be0"
@@ -1316,7 +1286,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-42"
+        "tag": "proxy-41"
       },
       {
         "protocol": "vless",
@@ -1338,7 +1308,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "geMQTr1bLHWwm2iEMux8qao7TQec_nZi7mL5PtPPYxk",
             "serverName": "stellar-core-pt4gskrz.expresshost.cloud",
             "shortId": "b40ec2a55d37f0f8"
@@ -1346,7 +1316,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-43"
+        "tag": "proxy-42"
       },
       {
         "protocol": "vless",
@@ -1368,7 +1338,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "030Qw4zms-wt_VFUGhvaPCRWO-XPSvBLHCfZjGDEfHo",
             "serverName": "j5.24lunar.ru",
             "shortId": "15660d3b6e5e2cf0"
@@ -1376,7 +1346,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-44"
+        "tag": "proxy-43"
       },
       {
         "protocol": "vless",
@@ -1398,7 +1368,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "DiDLpfgYCBXjx3xBi4i1GQ7XzCxWR6fr4f4MeuxTmTU",
             "serverName": "j4.24lunar.ru",
             "shortId": "60025bff03143fbf"
@@ -1406,7 +1376,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-45"
+        "tag": "proxy-44"
       },
       {
         "protocol": "vless",
@@ -1428,7 +1398,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "hLksEpJ6j9Q0ZdwX1-sjaRe50VVlveWptIHV7rmQ-Ds",
             "serverName": "j3.24lunar.ru",
             "shortId": "cc2e69a881b02b12"
@@ -1436,7 +1406,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-46"
+        "tag": "proxy-45"
       },
       {
         "protocol": "vless",
@@ -1458,7 +1428,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "--5feVPmvS_zAxWrzqHSE16_NjioBTRANqHA-8owiDs",
             "serverName": "j2.24lunar.ru",
             "shortId": "1a4ed036b629393e"
@@ -1466,7 +1436,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-47"
+        "tag": "proxy-46"
       },
       {
         "protocol": "vless",
@@ -1488,7 +1458,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "u0sxrwqh9MvK0Mty9pOHsk3r0f9-Z4_8HXXcDdwSn0Y",
             "serverName": "j1.24lunar.ru",
             "shortId": "6f7b1d286ea79774"
@@ -1496,7 +1466,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-48"
+        "tag": "proxy-47"
       },
       {
         "protocol": "vless",
@@ -1526,7 +1496,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-49"
+        "tag": "proxy-48"
       },
       {
         "protocol": "vless",
@@ -1548,7 +1518,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "qq",
+            "fingerprint": "edge",
             "publicKey": "B4w00ttTZs8NbSvZXgB_siWB957MsYKvw0YD2Eu0FV0",
             "serverName": "nl5.24lunar.ru",
             "shortId": "75eaedbbf7541706"
@@ -1556,7 +1526,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-50"
+        "tag": "proxy-49"
       },
       {
         "protocol": "vless",
@@ -1586,7 +1556,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-51"
+        "tag": "proxy-50"
       },
       {
         "protocol": "vless",
@@ -1608,7 +1578,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "8XuR5eYUYkMPryMPKjEls8e9yS9LlI4VI2zKyZsFwjI",
             "serverName": "bs1.24lunar.ru",
             "shortId": "42cf576e66ebbde0"
@@ -1638,7 +1608,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "Q9maS9ur3fzA2_nnw8SMT7XXRmz2BIwAkN-mwEwvjV8",
             "serverName": "www.cloudflare.com",
             "shortId": "ca4a1317e03791b3"
@@ -1980,7 +1950,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "8XuR5eYUYkMPryMPKjEls8e9yS9LlI4VI2zKyZsFwjI",
             "serverName": "bs1.24lunar.ru",
             "shortId": "42cf576e66ebbde0"
@@ -2010,7 +1980,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "Q9maS9ur3fzA2_nnw8SMT7XXRmz2BIwAkN-mwEwvjV8",
             "serverName": "www.cloudflare.com",
             "shortId": "ca4a1317e03791b3"
@@ -2427,7 +2397,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "ywCaLTJfuM94ujujtUrovJJmuVE2R-bGrmLJhVxCsH4",
             "serverName": "nl7.24lunar.ru",
             "shortId": "1912020ef5ace474"
@@ -2457,7 +2427,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "dnMQOx1AndRD9LZUlLjF6_nkGxkhU_M9xU4Awtk6UWI",
             "serverName": "nl24.24lunar.ru",
             "shortId": "8788e334005f07be"
@@ -2487,7 +2457,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "mlTq5lIEhhm452KWbu6UVyEFxeyQ7Hpf_LpH0Gh0IBE",
             "serverName": "nl39.24lunar.ru",
             "shortId": "cbe201fcc97d09d3"
@@ -2496,36 +2466,6 @@
           "tcpSettings": {}
         },
         "tag": "proxy-3"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "a4.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "firefox",
-            "publicKey": "e9ypE6zP4uUrzwaKPGj70cnyqJ1SB-t8T4pPPtMYUhk",
-            "serverName": "a4.24lunar.ru",
-            "shortId": "0188cf2b7f5a2a41"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-4"
       },
       {
         "protocol": "vless",
@@ -2547,7 +2487,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "rMUr1d-LmteD3HgMkr_ZEx1jX4ETPXcAj8vxDVUKsCI",
             "serverName": "b93.24lunar.ru",
             "shortId": "961e1afa454fecfd"
@@ -2555,7 +2495,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-5"
+        "tag": "proxy-4"
       },
       {
         "protocol": "vless",
@@ -2577,7 +2517,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "2LPdx9eQv-jy1wC0MQolPiCcsdXUnNnno9CWjJ0JJWM",
             "serverName": "b90.24lunar.ru",
             "shortId": "5657bd19e213a137"
@@ -2585,7 +2525,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-6"
+        "tag": "proxy-5"
       },
       {
         "protocol": "vless",
@@ -2607,7 +2547,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "As9jX4vrT2Yla9eEkDiGiV3BCaPCAR-lA9uALnS1BxI",
             "serverName": "nl2.24lunar.ru",
             "shortId": "5de58e7a928c6933"
@@ -2615,7 +2555,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-7"
+        "tag": "proxy-6"
       },
       {
         "protocol": "vless",
@@ -2637,7 +2577,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "jjs_T92kgWBtjnphIMg11N1luboI4ivdTzjrUhR9bk0",
             "serverName": "j24.24lunar.ru",
             "shortId": "780beb7c7cece0e6"
@@ -2645,7 +2585,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-8"
+        "tag": "proxy-7"
       },
       {
         "protocol": "vless",
@@ -2667,7 +2607,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "030Qw4zms-wt_VFUGhvaPCRWO-XPSvBLHCfZjGDEfHo",
             "serverName": "j5.24lunar.ru",
             "shortId": "15660d3b6e5e2cf0"
@@ -2675,7 +2615,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-9"
+        "tag": "proxy-8"
       },
       {
         "protocol": "vless",
@@ -2697,7 +2637,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "DiDLpfgYCBXjx3xBi4i1GQ7XzCxWR6fr4f4MeuxTmTU",
             "serverName": "j4.24lunar.ru",
             "shortId": "60025bff03143fbf"
@@ -2705,7 +2645,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-10"
+        "tag": "proxy-9"
       },
       {
         "protocol": "vless",
@@ -2727,7 +2667,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "hLksEpJ6j9Q0ZdwX1-sjaRe50VVlveWptIHV7rmQ-Ds",
             "serverName": "j3.24lunar.ru",
             "shortId": "cc2e69a881b02b12"
@@ -2735,7 +2675,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-11"
+        "tag": "proxy-10"
       },
       {
         "protocol": "vless",
@@ -2757,7 +2697,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "--5feVPmvS_zAxWrzqHSE16_NjioBTRANqHA-8owiDs",
             "serverName": "j2.24lunar.ru",
             "shortId": "1a4ed036b629393e"
@@ -2765,7 +2705,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-12"
+        "tag": "proxy-11"
       },
       {
         "protocol": "vless",
@@ -2787,7 +2727,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "u0sxrwqh9MvK0Mty9pOHsk3r0f9-Z4_8HXXcDdwSn0Y",
             "serverName": "j1.24lunar.ru",
             "shortId": "6f7b1d286ea79774"
@@ -2795,7 +2735,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-13"
+        "tag": "proxy-12"
       },
       {
         "protocol": "vless",
@@ -2825,7 +2765,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-14"
+        "tag": "proxy-13"
       },
       {
         "protocol": "vless",
@@ -2847,7 +2787,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "qq",
+            "fingerprint": "edge",
             "publicKey": "B4w00ttTZs8NbSvZXgB_siWB957MsYKvw0YD2Eu0FV0",
             "serverName": "nl5.24lunar.ru",
             "shortId": "75eaedbbf7541706"
@@ -2855,7 +2795,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-15"
+        "tag": "proxy-14"
       },
       {
         "protocol": "vless",
@@ -2885,7 +2825,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-16"
+        "tag": "proxy-15"
       },
       {
         "protocol": "freedom",
@@ -3294,7 +3234,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "W9DSS403aS554LGCah3i93XotLXbpTDz_FeGMKOfwFY",
             "serverName": "digital-ocean-pppxbslq.expresshost.cloud",
             "shortId": "93f5ed5925ab6a94"
@@ -3324,7 +3264,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "tD8qLfg7d9vMGGpNPwR36yhsoMnRe5S83zfXqwH2xFs",
             "serverName": "azure-spirit-d2pzx5a6.expresshost.cloud",
             "shortId": "29b136f355084807"
@@ -3354,7 +3294,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "qAofVQeZRyt3i7tlSciuoB_3mSCJujMCZ6R50ZSfSWs",
             "serverName": "chrome-sun-teymjbg1.expresshost.cloud",
             "shortId": "b8b3f9446b404ca9"
@@ -3384,7 +3324,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "KNGUz526iCLpIY_DD-lSRlDhRACnawyX9wVUeDYxmQI",
             "serverName": "alpha-pulse-odtrhjwq.expresshost.cloud",
             "shortId": "0e0518549c968639"
@@ -3414,7 +3354,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "g3JrSfXrjfH-RggpMMUy_b-go2nB1ybRDTadhCbt5l4",
             "serverName": "blazing-echo-jwcdxuzi.expresshost.cloud",
             "shortId": "734d2a5cd7300d1b"
@@ -3444,7 +3384,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "_hmUHlA8ScKc076bEXk67EI_IIF_5cMlxhvSyBgAQDU",
             "serverName": "lunar-matrix-cptqhzuo.expresshost.cloud",
             "shortId": "79426d38b09c783c"
@@ -3474,7 +3414,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "UUYvX6TPSxNqih5vIsMyaJ87PHIZnNBMkkkY-Bb_Q2E",
             "serverName": "lunar-falcon-7xpprogm.expresshost.cloud",
             "shortId": "7e3136ec20454bf2"
@@ -3504,7 +3444,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "96DN6UYffdCMBolJ4Phz2ICLCI_RXATB2Nze74duZXU",
             "serverName": "frozen-spirit-3xaahkb8.expresshost.cloud",
             "shortId": "f488da5985488c10"
@@ -3534,7 +3474,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "huX1uYhw8ZAB5OsWHCvT5KTN1Hzxm66hANGui5DoWX8",
             "serverName": "flying-thunder-ikvtagrm.expresshost.cloud",
             "shortId": "7d3cb7c1079e5251"
@@ -3564,7 +3504,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "dY_MWDz2KYtz75P7ZqZ6MeAljsox0oUMuWL_QtjaElU",
             "serverName": "stellar-flux-5jfz4va2.expresshost.cloud",
             "shortId": "20f542a4d8eaedf0"
@@ -3594,7 +3534,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "59PjGUByAnJEuwGwO2Z-qo9Bh3UlWAk6KFlv5myMv2I",
             "serverName": "rogue-cipher-qcuwcks4.expresshost.cloud",
             "shortId": "40aee022c8c26e85"
@@ -3624,7 +3564,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "6MWd0QE1qe8nI-E-MecTsGtFjnsJTr92elbMuBG8mEc",
             "serverName": "blazing-moon-rbuvazov.expresshost.cloud",
             "shortId": "a17fa3bf54a2e179"
@@ -3654,7 +3594,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "SY8j6mBu3w7tj6pc6P3pHjbAoP9PHCW1LIJbb_hTeFc",
             "serverName": "azure-tiger-smjybek1.expresshost.cloud",
             "shortId": "c441fb0e31863e26"
@@ -3684,7 +3624,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "-ff41fTzzIuzuhTWdMP1MKCuANqjl8ViFiEHr2OFUQg",
             "serverName": "cosmic-prism-opk8oogu.expresshost.cloud",
             "shortId": "0f3a15f0d0f36dba"
@@ -3714,7 +3654,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "r_ZYy9v1uX0asYSQDjrFzV-MpZJLBCnnCF1Ovd74NkQ",
             "serverName": "neon-ghost-ywz5fq77.expresshost.cloud",
             "shortId": "6a6c810d4760a9e2"
@@ -3744,7 +3684,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "m5y4k8gb8lBy67TVzOrSiBxC6oWaSiNZulf6oFN_xhg",
             "serverName": "lunar-thunder-og8erefj.expresshost.cloud",
             "shortId": "5d2eccae759bbee2"
@@ -3774,7 +3714,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "1j_WS6KkcGSPQXrkc12X7U_H1vVLW1JE585JSbEqUCo",
             "serverName": "fierce-ghost-sjy9qado.expresshost.cloud",
             "shortId": "fa6b87d1ee7901d8"
@@ -3804,7 +3744,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "ehZD2USs7ngLoVDAwVmQD46zxbgv0RRG2dbAfhGrplY",
             "serverName": "alpha-blade-bejgneau.expresshost.cloud",
             "shortId": "585d4de29aa97b4e"
@@ -3834,7 +3774,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "UHVn7dzg3l0RjRPkBLzNT3cDtslKmw0P2DHlWSubxwM",
             "serverName": "chrome-ocean-zepbgwal.expresshost.cloud",
             "shortId": "5bee246b657dcd81"
@@ -3864,7 +3804,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "mpmgrqBPB7KAJEjfBdBL7DmYxj_H6zlaHnp-MhYBRjk",
             "serverName": "hyper-nova-z6wimgtr.expresshost.cloud",
             "shortId": "3f9121cb19eb0be0"
@@ -3894,7 +3834,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "geMQTr1bLHWwm2iEMux8qao7TQec_nZi7mL5PtPPYxk",
             "serverName": "stellar-core-pt4gskrz.expresshost.cloud",
             "shortId": "b40ec2a55d37f0f8"
@@ -4311,7 +4251,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "RvhUXnBEYgMVtZl8HA6iQtSe_aMvCy2GfXldoluxEyo",
             "serverName": "c6.24lunar.ru",
             "shortId": "20f1e47c9b26f05b"
@@ -4341,7 +4281,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "vHbZfBfrUt-xiKXDXnp_AnbBzyTtz7SAwnKwj_il-h8",
             "serverName": "c5.24lunar.ru",
             "shortId": "be8dc68fe846ab47"
@@ -4371,7 +4311,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "c0mYCgKisbcKQMBxlQufucsf24EUrr1P9x9iMOalShI",
             "serverName": "chrome-orbit-hoioja3w.expresshost.cloud",
             "shortId": "165b09afdd9c4f4a"
@@ -4401,7 +4341,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "LsxDXGyvZoSMfhAa7x_nLS_Kh2EqxlVF1pIX0gOD9lk",
             "serverName": "light-cloud-p9m22v8g.expresshost.cloud",
             "shortId": "c30a9d14fa8119cf"
@@ -4431,7 +4371,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "NkPm32MW8XQXJoyiO48X9cJuaJsCQU9sJwlQ6gEFJQk",
             "serverName": "prime-forge-w8nxpejx.expresshost.cloud",
             "shortId": "14c7b997a239bbc2"
@@ -4461,7 +4401,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "hKUSUfuPXKdVkD7Bq82EJ7PtpuO-ogkz3p30V_EQfic",
             "serverName": "ancient-core-vmndvjwe.expresshost.cloud",
             "shortId": "1ab27dc1edc97d3f"
@@ -4491,7 +4431,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "ctJ9Mv8Oj2EPy0_Lp-BwEQ_nxyqXEg1tVu8r8AOb40A",
             "serverName": "hyper-spark-caw5ednw.expresshost.cloud",
             "shortId": "d3c2e2aba4dfbaa7"
@@ -4521,7 +4461,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "7Cock5iGdW5LAP5lVNy8EkWsQaccjqXlfVahVhEeS2E",
             "serverName": "vortex-prism-rpvl194a.expresshost.cloud",
             "shortId": "01ff89d5dccbf025"
@@ -4551,7 +4491,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "jdIlSl10oaOK3cy3B8wrQS88ikci21ghVnbzZViMwyc",
             "serverName": "matrix-nova-xuxa59qa.expresshost.cloud",
             "shortId": "365a7470c393fc74"
@@ -4581,7 +4521,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "5vrMJIpr9IDtLH1QTKyb5C2mnglq_Sbpt43oX9PuIXg",
             "serverName": "light-vertex-9v3qvrpk.expresshost.cloud",
             "shortId": "7db0f89b7ecd46f6"
@@ -4611,7 +4551,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "YmibVdtw3DLRb8yGgjI1QDSR1j3hCasz7uxTNhlt73s",
             "serverName": "swift-aura-g90db1yl.expresshost.cloud",
             "shortId": "b06c7a85cd6ed27d"
@@ -5021,7 +4961,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "NkPm32MW8XQXJoyiO48X9cJuaJsCQU9sJwlQ6gEFJQk",
             "serverName": "prime-forge-w8nxpejx.expresshost.cloud",
             "shortId": "14c7b997a239bbc2"
@@ -5051,7 +4991,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "jdIlSl10oaOK3cy3B8wrQS88ikci21ghVnbzZViMwyc",
             "serverName": "matrix-nova-xuxa59qa.expresshost.cloud",
             "shortId": "365a7470c393fc74"
@@ -5178,7 +5118,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "chrome",
+            "fingerprint": "edge",
             "publicKey": "jMyinhYez_hZiB9f9PfZCbbLGFRgo_R27Dwqb9XQ-kc",
             "serverName": "nl0.24lunar.ru",
             "shortId": "2ecb08aa476f2305"
@@ -5280,7 +5220,7 @@
         "streamSettings": {
           "network": "tcp",
           "realitySettings": {
-            "fingerprint": "qq",
+            "fingerprint": "edge",
             "publicKey": "B4w00ttTZs8NbSvZXgB_siWB957MsYKvw0YD2Eu0FV0",
             "serverName": "nl5.24lunar.ru",
             "shortId": "75eaedbbf7541706"
