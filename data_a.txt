@@ -2890,6 +2890,36 @@
         "settings": {
           "vnext": [
             {
+              "address": "87.232.96.121",
+              "port": 7443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "edge",
+            "publicKey": "PxDQzOaXO4BhoQhnmuBEbf4NecQhkzpi2ZaSrR9gWDk",
+            "serverName": "www.cloudflare.com",
+            "shortId": "aefbcf7fc283bd55"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-62"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "bs1.24lunar.ru",
               "port": 440,
               "users": [
@@ -8127,6 +8157,36 @@
         "settings": {
           "vnext": [
             {
+              "address": "87.232.96.121",
+              "port": 7443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "edge",
+            "publicKey": "PxDQzOaXO4BhoQhnmuBEbf4NecQhkzpi2ZaSrR9gWDk",
+            "serverName": "www.cloudflare.com",
+            "shortId": "aefbcf7fc283bd55"
+          },
+          "security": "reality",
+          "tcpSettings": {}
+        },
+        "tag": "proxy-62"
+      },
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
               "address": "bs1.24lunar.ru",
               "port": 440,
               "users": [
@@ -8392,9 +8452,9 @@
           "network": "tcp",
           "realitySettings": {
             "fingerprint": "edge",
-            "publicKey": "DiDLpfgYCBXjx3xBi4i1GQ7XzCxWR6fr4f4MeuxTmTU",
-            "serverName": "j4.24lunar.ru",
-            "shortId": "60025bff03143fbf"
+            "publicKey": "PxDQzOaXO4BhoQhnmuBEbf4NecQhkzpi2ZaSrR9gWDk",
+            "serverName": "www.cloudflare.com",
+            "shortId": "aefbcf7fc283bd55"
           },
           "security": "reality",
           "tcpSettings": {}
@@ -8410,7 +8470,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇳🇱 j4",
+    "remarks": "🇳🇱test",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
