@@ -912,7 +912,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "87.232.96.121",
+              "address": "nl7.24lunar.ru",
               "port": 443,
               "users": [
                 {
@@ -3157,7 +3157,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "87.232.96.121",
+              "address": "nl7.24lunar.ru",
               "port": 443,
               "users": [
                 {
@@ -5247,7 +5247,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "87.232.96.121",
+              "address": "nl7.24lunar.ru",
               "port": 443,
               "users": [
                 {
