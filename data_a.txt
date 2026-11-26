@@ -1301,36 +1301,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "frozen-spirit-3xaahkb8.expresshost.cloud",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "edge",
-            "publicKey": "96DN6UYffdCMBolJ4Phz2ICLCI_RXATB2Nze74duZXU",
-            "serverName": "frozen-spirit-3xaahkb8.expresshost.cloud",
-            "shortId": "f488da5985488c10"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-15"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "flying-thunder-ikvtagrm.expresshost.cloud",
               "port": 443,
               "users": [
@@ -1354,7 +1324,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-16"
+        "tag": "proxy-15"
       },
       {
         "protocol": "vless",
@@ -1384,7 +1354,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-17"
+        "tag": "proxy-16"
       },
       {
         "protocol": "vless",
@@ -1414,7 +1384,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-18"
+        "tag": "proxy-17"
       },
       {
         "protocol": "vless",
@@ -1444,7 +1414,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-19"
+        "tag": "proxy-18"
       },
       {
         "protocol": "vless",
@@ -1474,7 +1444,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-20"
+        "tag": "proxy-19"
       },
       {
         "protocol": "vless",
@@ -1504,7 +1474,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-21"
+        "tag": "proxy-20"
       },
       {
         "protocol": "vless",
@@ -1534,7 +1504,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-22"
+        "tag": "proxy-21"
       },
       {
         "protocol": "vless",
@@ -1564,7 +1534,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-23"
+        "tag": "proxy-22"
       },
       {
         "protocol": "vless",
@@ -1594,7 +1564,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-24"
+        "tag": "proxy-23"
       },
       {
         "protocol": "vless",
@@ -1624,7 +1594,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-25"
+        "tag": "proxy-24"
       },
       {
         "protocol": "vless",
@@ -1654,7 +1624,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-26"
+        "tag": "proxy-25"
       },
       {
         "protocol": "vless",
@@ -1684,7 +1654,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-27"
+        "tag": "proxy-26"
       },
       {
         "protocol": "vless",
@@ -1714,7 +1684,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-28"
+        "tag": "proxy-27"
       },
       {
         "protocol": "vless",
@@ -1744,7 +1714,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-29"
+        "tag": "proxy-28"
       },
       {
         "protocol": "vless",
@@ -1774,7 +1744,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-30"
+        "tag": "proxy-29"
       },
       {
         "protocol": "vless",
@@ -1804,7 +1774,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-31"
+        "tag": "proxy-30"
       },
       {
         "protocol": "vless",
@@ -1834,7 +1804,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-32"
+        "tag": "proxy-31"
       },
       {
         "protocol": "vless",
@@ -1864,7 +1834,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-33"
+        "tag": "proxy-32"
       },
       {
         "protocol": "hysteria",
@@ -1896,7 +1866,7 @@
             "serverName": "ancient-core-vmndvjwe.expresshost.cloud"
           }
         },
-        "tag": "proxy-34"
+        "tag": "proxy-33"
       },
       {
         "protocol": "hysteria",
@@ -1928,7 +1898,7 @@
             "serverName": "hyper-spark-caw5ednw.expresshost.cloud"
           }
         },
-        "tag": "proxy-35"
+        "tag": "proxy-34"
       },
       {
         "protocol": "hysteria",
@@ -1960,7 +1930,7 @@
             "serverName": "vortex-prism-rpvl194a.expresshost.cloud"
           }
         },
-        "tag": "proxy-36"
+        "tag": "proxy-35"
       },
       {
         "protocol": "hysteria",
@@ -1992,7 +1962,7 @@
             "serverName": "matrix-nova-xuxa59qa.expresshost.cloud"
           }
         },
-        "tag": "proxy-37"
+        "tag": "proxy-36"
       },
       {
         "protocol": "hysteria",
@@ -2024,7 +1994,7 @@
             "serverName": "light-vertex-9v3qvrpk.expresshost.cloud"
           }
         },
-        "tag": "proxy-38"
+        "tag": "proxy-37"
       },
       {
         "protocol": "hysteria",
@@ -2055,7 +2025,7 @@
             "serverName": "swift-aura-g90db1yl.expresshost.cloud"
           }
         },
-        "tag": "proxy-39"
+        "tag": "proxy-38"
       },
       {
         "protocol": "hysteria",
@@ -2086,7 +2056,7 @@
             "serverName": "azure-tiger-smjybek1.expresshost.cloud"
           }
         },
-        "tag": "proxy-40"
+        "tag": "proxy-39"
       },
       {
         "protocol": "hysteria",
@@ -2117,7 +2087,7 @@
             "serverName": "cosmic-prism-opk8oogu.expresshost.cloud"
           }
         },
-        "tag": "proxy-41"
+        "tag": "proxy-40"
       },
       {
         "protocol": "hysteria",
@@ -2148,7 +2118,7 @@
             "serverName": "neon-ghost-ywz5fq77.expresshost.cloud"
           }
         },
-        "tag": "proxy-42"
+        "tag": "proxy-41"
       },
       {
         "protocol": "hysteria",
@@ -2179,7 +2149,7 @@
             "serverName": "lunar-thunder-og8erefj.expresshost.cloud"
           }
         },
-        "tag": "proxy-43"
+        "tag": "proxy-42"
       },
       {
         "protocol": "hysteria",
@@ -2210,7 +2180,7 @@
             "serverName": "fierce-ghost-sjy9qado.expresshost.cloud"
           }
         },
-        "tag": "proxy-44"
+        "tag": "proxy-43"
       },
       {
         "protocol": "hysteria",
@@ -2241,7 +2211,7 @@
             "serverName": "alpha-blade-bejgneau.expresshost.cloud"
           }
         },
-        "tag": "proxy-45"
+        "tag": "proxy-44"
       },
       {
         "protocol": "hysteria",
@@ -2272,7 +2242,7 @@
             "serverName": "hyper-nova-z6wimgtr.expresshost.cloud"
           }
         },
-        "tag": "proxy-46"
+        "tag": "proxy-45"
       },
       {
         "protocol": "hysteria",
@@ -2303,7 +2273,7 @@
             "serverName": "stellar-core-pt4gskrz.expresshost.cloud"
           }
         },
-        "tag": "proxy-47"
+        "tag": "proxy-46"
       },
       {
         "protocol": "vless",
@@ -2333,7 +2303,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-48"
+        "tag": "proxy-47"
       },
       {
         "protocol": "vless",
@@ -2443,7 +2413,13 @@
             "proxy"
           ],
           "strategy": {
-            "type": "random"
+            "settings": {
+              "baselines": [],
+              "expected": 50,
+              "maxRTT": "0s",
+              "tolerance": 0
+            },
+            "type": "leastLoad"
           },
           "tag": "AUTO"
         }
@@ -2713,14 +2689,12 @@
           ],
           "strategy": {
             "settings": {
-              "baselines": [
-                "1s"
-              ],
-              "expected": 12,
-              "maxRTT": "1s",
-              "tolerance": 0.01
+              "baselines": [],
+              "expected": 30,
+              "maxRTT": "0s",
+              "tolerance": 0
             },
-            "type": "roundRobin"
+            "type": "leastLoad"
           },
           "tag": "Super_Balancer"
         }
@@ -3398,36 +3372,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "frozen-spirit-3xaahkb8.expresshost.cloud",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "edge",
-            "publicKey": "96DN6UYffdCMBolJ4Phz2ICLCI_RXATB2Nze74duZXU",
-            "serverName": "frozen-spirit-3xaahkb8.expresshost.cloud",
-            "shortId": "f488da5985488c10"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-8"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "flying-thunder-ikvtagrm.expresshost.cloud",
               "port": 443,
               "users": [
@@ -3451,7 +3395,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-9"
+        "tag": "proxy-8"
       },
       {
         "protocol": "vless",
@@ -3481,7 +3425,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-10"
+        "tag": "proxy-9"
       },
       {
         "protocol": "vless",
@@ -3511,7 +3455,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-11"
+        "tag": "proxy-10"
       },
       {
         "protocol": "vless",
@@ -3541,7 +3485,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-12"
+        "tag": "proxy-11"
       },
       {
         "protocol": "vless",
@@ -3571,7 +3515,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-13"
+        "tag": "proxy-12"
       },
       {
         "protocol": "vless",
@@ -3601,7 +3545,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-14"
+        "tag": "proxy-13"
       },
       {
         "protocol": "vless",
@@ -3631,7 +3575,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-15"
+        "tag": "proxy-14"
       },
       {
         "protocol": "vless",
@@ -3661,7 +3605,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-16"
+        "tag": "proxy-15"
       },
       {
         "protocol": "vless",
@@ -3691,7 +3635,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-17"
+        "tag": "proxy-16"
       },
       {
         "protocol": "vless",
@@ -3721,7 +3665,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-18"
+        "tag": "proxy-17"
       },
       {
         "protocol": "vless",
@@ -3751,7 +3695,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-19"
+        "tag": "proxy-18"
       },
       {
         "protocol": "vless",
@@ -3781,7 +3725,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-20"
+        "tag": "proxy-19"
       },
       {
         "protocol": "freedom",
@@ -3802,14 +3746,12 @@
           ],
           "strategy": {
             "settings": {
-              "baselines": [
-                "1s"
-              ],
-              "expected": 12,
-              "maxRTT": "1s",
-              "tolerance": 0.01
+              "baselines": [],
+              "expected": 30,
+              "maxRTT": "0s",
+              "tolerance": 0
             },
-            "type": "roundRobin"
+            "type": "leastLoad"
           },
           "tag": "Super_Balancer"
         }
@@ -4489,14 +4431,12 @@
           ],
           "strategy": {
             "settings": {
-              "baselines": [
-                "1s"
-              ],
-              "expected": 12,
-              "maxRTT": "1s",
-              "tolerance": 0.01
+              "baselines": [],
+              "expected": 30,
+              "maxRTT": "0s",
+              "tolerance": 0
             },
-            "type": "roundRobin"
+            "type": "leastLoad"
           },
           "tag": "Super_Balancer"
         }
@@ -5575,36 +5515,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "frozen-spirit-3xaahkb8.expresshost.cloud",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "edge",
-            "publicKey": "96DN6UYffdCMBolJ4Phz2ICLCI_RXATB2Nze74duZXU",
-            "serverName": "frozen-spirit-3xaahkb8.expresshost.cloud",
-            "shortId": "f488da5985488c10"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-16"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "flying-thunder-ikvtagrm.expresshost.cloud",
               "port": 443,
               "users": [
@@ -5628,7 +5538,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-17"
+        "tag": "proxy-16"
       },
       {
         "protocol": "vless",
@@ -5658,7 +5568,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-18"
+        "tag": "proxy-17"
       },
       {
         "protocol": "vless",
@@ -5688,7 +5598,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-19"
+        "tag": "proxy-18"
       },
       {
         "protocol": "vless",
@@ -5718,7 +5628,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-20"
+        "tag": "proxy-19"
       },
       {
         "protocol": "vless",
@@ -5748,7 +5658,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-21"
+        "tag": "proxy-20"
       },
       {
         "protocol": "vless",
@@ -5778,7 +5688,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-22"
+        "tag": "proxy-21"
       },
       {
         "protocol": "vless",
@@ -5808,7 +5718,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-23"
+        "tag": "proxy-22"
       },
       {
         "protocol": "vless",
@@ -5838,7 +5748,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-24"
+        "tag": "proxy-23"
       },
       {
         "protocol": "vless",
@@ -5868,7 +5778,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-25"
+        "tag": "proxy-24"
       },
       {
         "protocol": "vless",
@@ -5898,7 +5808,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-26"
+        "tag": "proxy-25"
       },
       {
         "protocol": "vless",
@@ -5928,7 +5838,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-27"
+        "tag": "proxy-26"
       },
       {
         "protocol": "vless",
@@ -5958,7 +5868,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-28"
+        "tag": "proxy-27"
       },
       {
         "protocol": "vless",
@@ -5988,7 +5898,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-29"
+        "tag": "proxy-28"
       },
       {
         "protocol": "vless",
@@ -6018,7 +5928,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-30"
+        "tag": "proxy-29"
       },
       {
         "protocol": "vless",
@@ -6048,7 +5958,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-31"
+        "tag": "proxy-30"
       },
       {
         "protocol": "vless",
@@ -6078,7 +5988,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-32"
+        "tag": "proxy-31"
       },
       {
         "protocol": "vless",
@@ -6108,7 +6018,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-33"
+        "tag": "proxy-32"
       },
       {
         "protocol": "vless",
@@ -6138,7 +6048,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-34"
+        "tag": "proxy-33"
       },
       {
         "protocol": "hysteria",
@@ -6170,7 +6080,7 @@
             "serverName": "ancient-core-vmndvjwe.expresshost.cloud"
           }
         },
-        "tag": "proxy-35"
+        "tag": "proxy-34"
       },
       {
         "protocol": "hysteria",
@@ -6202,7 +6112,7 @@
             "serverName": "hyper-spark-caw5ednw.expresshost.cloud"
           }
         },
-        "tag": "proxy-36"
+        "tag": "proxy-35"
       },
       {
         "protocol": "hysteria",
@@ -6234,7 +6144,7 @@
             "serverName": "vortex-prism-rpvl194a.expresshost.cloud"
           }
         },
-        "tag": "proxy-37"
+        "tag": "proxy-36"
       },
       {
         "protocol": "hysteria",
@@ -6266,7 +6176,7 @@
             "serverName": "matrix-nova-xuxa59qa.expresshost.cloud"
           }
         },
-        "tag": "proxy-38"
+        "tag": "proxy-37"
       },
       {
         "protocol": "hysteria",
@@ -6298,7 +6208,7 @@
             "serverName": "light-vertex-9v3qvrpk.expresshost.cloud"
           }
         },
-        "tag": "proxy-39"
+        "tag": "proxy-38"
       },
       {
         "protocol": "hysteria",
@@ -6329,7 +6239,7 @@
             "serverName": "swift-aura-g90db1yl.expresshost.cloud"
           }
         },
-        "tag": "proxy-40"
+        "tag": "proxy-39"
       },
       {
         "protocol": "hysteria",
@@ -6360,7 +6270,7 @@
             "serverName": "azure-tiger-smjybek1.expresshost.cloud"
           }
         },
-        "tag": "proxy-41"
+        "tag": "proxy-40"
       },
       {
         "protocol": "hysteria",
@@ -6391,7 +6301,7 @@
             "serverName": "cosmic-prism-opk8oogu.expresshost.cloud"
           }
         },
-        "tag": "proxy-42"
+        "tag": "proxy-41"
       },
       {
         "protocol": "hysteria",
@@ -6422,7 +6332,7 @@
             "serverName": "neon-ghost-ywz5fq77.expresshost.cloud"
           }
         },
-        "tag": "proxy-43"
+        "tag": "proxy-42"
       },
       {
         "protocol": "hysteria",
@@ -6453,7 +6363,7 @@
             "serverName": "lunar-thunder-og8erefj.expresshost.cloud"
           }
         },
-        "tag": "proxy-44"
+        "tag": "proxy-43"
       },
       {
         "protocol": "hysteria",
@@ -6484,7 +6394,7 @@
             "serverName": "fierce-ghost-sjy9qado.expresshost.cloud"
           }
         },
-        "tag": "proxy-45"
+        "tag": "proxy-44"
       },
       {
         "protocol": "hysteria",
@@ -6515,7 +6425,7 @@
             "serverName": "alpha-blade-bejgneau.expresshost.cloud"
           }
         },
-        "tag": "proxy-46"
+        "tag": "proxy-45"
       },
       {
         "protocol": "hysteria",
@@ -6546,7 +6456,7 @@
             "serverName": "hyper-nova-z6wimgtr.expresshost.cloud"
           }
         },
-        "tag": "proxy-47"
+        "tag": "proxy-46"
       },
       {
         "protocol": "hysteria",
@@ -6577,7 +6487,7 @@
             "serverName": "stellar-core-pt4gskrz.expresshost.cloud"
           }
         },
-        "tag": "proxy-48"
+        "tag": "proxy-47"
       },
       {
         "protocol": "vless",
