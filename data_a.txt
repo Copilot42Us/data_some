@@ -508,37 +508,6 @@
         "tag": "proxy-14"
       },
       {
-        "protocol": "hysteria",
-        "settings": {
-          "address": "83.141.81.147",
-          "port": 443,
-          "version": 2
-        },
-        "streamSettings": {
-          "finalmask": {
-            "quicParams": {
-              "congestion": "bbr",
-              "debug": false
-            }
-          },
-          "hysteriaSettings": {
-            "auth": "256bd8e8-74bb-443f-a911-c49b5867c137",
-            "version": 2
-          },
-          "network": "hysteria",
-          "security": "tls",
-          "tlsSettings": {
-            "alpn": [
-              "h3"
-            ],
-            "enableSessionResumption": false,
-            "fingerprint": "edge",
-            "serverName": "a11.24lunar.ru"
-          }
-        },
-        "tag": "proxy-15"
-      },
-      {
         "protocol": "freedom",
         "tag": "direct"
       },
@@ -2341,67 +2310,6 @@
         "settings": {
           "vnext": [
             {
-              "address": "a11.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "edge",
-            "publicKey": "WJwNd3K0rzDyxVh1z_OXtl1nit46bgLQdfxR28kaWz8",
-            "serverName": "a11.24lunar.ru",
-            "shortId": "212a59ea7186ff36"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-48"
-      },
-      {
-        "protocol": "hysteria",
-        "settings": {
-          "address": "83.141.81.147",
-          "port": 443,
-          "version": 2
-        },
-        "streamSettings": {
-          "finalmask": {
-            "quicParams": {
-              "congestion": "bbr",
-              "debug": false
-            }
-          },
-          "hysteriaSettings": {
-            "auth": "256bd8e8-74bb-443f-a911-c49b5867c137",
-            "version": 2
-          },
-          "network": "hysteria",
-          "security": "tls",
-          "tlsSettings": {
-            "alpn": [
-              "h3"
-            ],
-            "enableSessionResumption": false,
-            "fingerprint": "edge",
-            "serverName": "a11.24lunar.ru"
-          }
-        },
-        "tag": "proxy-49"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
               "address": "bs1.24lunar.ru",
               "port": 443,
               "users": [
@@ -2425,7 +2333,7 @@
           "security": "reality",
           "tcpSettings": {}
         },
-        "tag": "proxy-50"
+        "tag": "proxy-48"
       },
       {
         "protocol": "vless",
@@ -6670,67 +6578,6 @@
           }
         },
         "tag": "proxy-48"
-      },
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "a11.24lunar.ru",
-              "port": 443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "realitySettings": {
-            "fingerprint": "edge",
-            "publicKey": "WJwNd3K0rzDyxVh1z_OXtl1nit46bgLQdfxR28kaWz8",
-            "serverName": "a11.24lunar.ru",
-            "shortId": "212a59ea7186ff36"
-          },
-          "security": "reality",
-          "tcpSettings": {}
-        },
-        "tag": "proxy-49"
-      },
-      {
-        "protocol": "hysteria",
-        "settings": {
-          "address": "83.141.81.147",
-          "port": 443,
-          "version": 2
-        },
-        "streamSettings": {
-          "finalmask": {
-            "quicParams": {
-              "congestion": "bbr",
-              "debug": false
-            }
-          },
-          "hysteriaSettings": {
-            "auth": "256bd8e8-74bb-443f-a911-c49b5867c137",
-            "version": 2
-          },
-          "network": "hysteria",
-          "security": "tls",
-          "tlsSettings": {
-            "alpn": [
-              "h3"
-            ],
-            "enableSessionResumption": false,
-            "fingerprint": "edge",
-            "serverName": "a11.24lunar.ru"
-          }
-        },
-        "tag": "proxy-50"
       },
       {
         "protocol": "vless",
