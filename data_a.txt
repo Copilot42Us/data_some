@@ -7113,7 +7113,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "rising-bolt-lsazglp1.expresshost.cloud",
+              "address": "217.60.151.82",
               "port": 443,
               "users": [
                 {
@@ -7128,116 +7128,7 @@
         "streamSettings": {
           "network": "xhttp",
           "realitySettings": {
-            "fingerprint": "qq",
-            "publicKey": "Ul2KdM638jq1zSzTjyGk_mhyVSPyYKCb_amZ0x6xw1s",
-            "serverName": "rising-bolt-lsazglp1.expresshost.cloud",
-            "shortId": "8f541d7654228428"
-          },
-          "security": "reality",
-          "xhttpSettings": {
-            "host": "",
-            "mode": "auto",
-            "path": "/137f4be685"
-          }
-        },
-        "tag": "proxy"
-      },
-      {
-        "protocol": "freedom",
-        "tag": "direct"
-      },
-      {
-        "protocol": "blackhole",
-        "tag": "block"
-      }
-    ],
-    "remarks": "🇳🇱 nl3",
-    "routing": {
-      "domainMatcher": "hybrid",
-      "domainStrategy": "IPIfNonMatch",
-      "rules": [
-        {
-          "outboundTag": "direct",
-          "protocol": [
-            "bittorrent"
-          ],
-          "type": "field"
-        }
-      ]
-    }
-  },
-  {
-    "dns": {
-      "queryStrategy": "UseIP",
-      "servers": [
-        {
-          "address": "8.8.8.8",
-          "timeoutMs": 2000
-        },
-        "1.1.1.1"
-      ]
-    },
-    "inbounds": [
-      {
-        "listen": "127.0.0.1",
-        "port": 10808,
-        "protocol": "socks",
-        "settings": {
-          "auth": "noauth",
-          "udp": true
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "socks"
-      },
-      {
-        "listen": "127.0.0.1",
-        "port": 10809,
-        "protocol": "http",
-        "settings": {
-          "allowTransparent": false
-        },
-        "sniffing": {
-          "destOverride": [
-            "http",
-            "tls",
-            "quic"
-          ],
-          "enabled": true,
-          "routeOnly": false
-        },
-        "tag": "http"
-      }
-    ],
-    "outbounds": [
-      {
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "noble-spark-urxieusy.expresshost.cloud",
-              "port": 30443,
-              "users": [
-                {
-                  "encryption": "none",
-                  "flow": "",
-                  "id": "256bd8e8-74bb-443f-a911-c49b5867c137"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "xhttp",
-          "realitySettings": {
-            "fingerprint": "firefox",
+            "fingerprint": "edge",
             "publicKey": "cQKCH07y4XRjPRc3nn5xNYt3nSgezEaadMfztEz5KBA",
             "serverName": "noble-spark-urxieusy.expresshost.cloud",
             "shortId": "78fadb79cddd1012"
@@ -7260,7 +7151,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "🇩🇪 n1/1",
+    "remarks": "🇳🇱  В процессе ",
     "routing": {
       "domainMatcher": "hybrid",
       "domainStrategy": "IPIfNonMatch",
