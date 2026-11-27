@@ -7130,7 +7130,7 @@
           "realitySettings": {
             "fingerprint": "edge",
             "publicKey": "cQKCH07y4XRjPRc3nn5xNYt3nSgezEaadMfztEz5KBA",
-            "serverName": "noble-spark-urxieusy.expresshost.cloud",
+            "serverName": "rising-bolt-lsazglp1.expresshost.cloud",
             "shortId": "78fadb79cddd1012"
           },
           "security": "reality",
